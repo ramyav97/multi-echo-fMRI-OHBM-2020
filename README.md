@@ -6,7 +6,7 @@ This repository contains materials related to multi-echo fMRI presented at the <
 
 To access the poster, please [click here](OHBMposter_RamyaVaradarajan.pdf). 
 
-To access an audio clip narrating the poster and its contents, please click here. 
+To access an audio clip narrating the poster contents, please click here. 
 To access a full transcript of the audio narration, please click here. 
 
 
