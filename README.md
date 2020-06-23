@@ -4,9 +4,10 @@ This repository contains materials related to multi-echo fMRI presented at the <
 
 ### Poster #1324: "Validating multi-echo fMRI analysis methods across a range of acquisitions" 
 
-To access the poster, please [click here](OHBMposter_RamyaVaradarajan.pdf). 
-
 To access an audio clip narrating the poster contents, please [click here](/OHBM_narration.mp3).<br>
 To access a full transcript of the audio narration, please [click here](audio_narration_transcript.pdf). 
+
+To access the poster, please [click here](OHBMposter_RamyaVaradarajan.pdf). 
+
 
 
